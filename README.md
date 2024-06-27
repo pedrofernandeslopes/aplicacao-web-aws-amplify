@@ -1,4 +1,4 @@
-# Aplicação Web com Backend Sem serverless
+# Aplicação Web com Backend Serverless
 
 ## Arquitetura da aplicação
 
